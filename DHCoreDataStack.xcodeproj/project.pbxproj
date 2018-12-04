@@ -445,7 +445,7 @@
 				CLASSPREFIX = DH;
 				LastSwiftUpdateCheck = 0700;
 				LastTestingUpgradeCheck = 0610;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					450A4B6E1A31A872001D9577 = {
